@@ -1,0 +1,16 @@
+.calendar {
+  width: 148px;
+  height: 38px;
+  border: 1px solid #e1e1eb;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.calendar-span {
+  padding-right: 16px;
+  margin-top: 2px;
+}
+.calendar-span-one {
+  padding-left: 16px;
+}
