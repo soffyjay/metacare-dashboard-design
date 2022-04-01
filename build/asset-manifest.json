@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7daef6fa.css",
+    "main.js": "/static/js/main.39c87d5a.js",
+    "static/js/787.4239f7a7.chunk.js": "/static/js/787.4239f7a7.chunk.js",
+    "static/media/Gelion Bold Italic.woff": "/static/media/Gelion Bold Italic.dfc0dc6d6c1cd92ad05c.woff",
+    "static/media/Gelion Black Italic.woff": "/static/media/Gelion Black Italic.83d362feea14dc476661.woff",
+    "static/media/Gelion Black.woff": "/static/media/Gelion Black.d4e0ffc9c27f54b4a171.woff",
+    "static/media/Gelion Bold.woff": "/static/media/Gelion Bold.c9f6ac5d1920cdb0e82a.woff",
+    "static/media/Gelion SemiBold Italic.woff": "/static/media/Gelion SemiBold Italic.3e11da11651181a86e6d.woff",
+    "static/media/Gelion Medium Italic.woff": "/static/media/Gelion Medium Italic.f3be4fbe5c4c2566e477.woff",
+    "static/media/Gelion SemiBold.woff": "/static/media/Gelion SemiBold.f2b831d25621079885b0.woff",
+    "static/media/Gelion Medium.woff": "/static/media/Gelion Medium.b84cf0ee15efd25dcd8e.woff",
+    "static/media/Gelion Regular Italic.woff": "/static/media/Gelion Regular Italic.48c89add17b97c401036.woff",
+    "static/media/Gelion Regular.woff": "/static/media/Gelion Regular.90452b01e276c6dfaa87.woff",
+    "static/media/Gelion Light Italic.woff": "/static/media/Gelion Light Italic.0f30032640405215a802.woff",
+    "static/media/Gelion Thin Italic.woff": "/static/media/Gelion Thin Italic.799653a5af4ebeeaf4ed.woff",
+    "static/media/Gelion Light.woff": "/static/media/Gelion Light.317d796e95d3a3abb1c5.woff",
+    "static/media/Gelion Thin.woff": "/static/media/Gelion Thin.0e2857104f46119ebb49.woff",
+    "index.html": "/index.html",
+    "static/media/Shape.svg": "/static/media/Shape.1f1eed38e96f0a5fc6e3a2e154a13f87.svg",
+    "static/media/circle.svg": "/static/media/circle.e2ebd7646789e0b254cdce8b16d60901.svg",
+    "main.7daef6fa.css.map": "/static/css/main.7daef6fa.css.map",
+    "main.39c87d5a.js.map": "/static/js/main.39c87d5a.js.map",
+    "787.4239f7a7.chunk.js.map": "/static/js/787.4239f7a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7daef6fa.css",
+    "static/js/main.39c87d5a.js"
+  ]
+}
