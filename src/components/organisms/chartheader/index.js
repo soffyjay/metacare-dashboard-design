@@ -1,7 +1,6 @@
 import React from "react";
 import ExportButton from "../../atoms/exportbutton";
 import FilterBox from "../../molecules/filterbox";
-import SearchBar from "../../molecules/searchbar";
 import { IoSearchOutline } from "react-icons/io5";
 import "./style.css";
 

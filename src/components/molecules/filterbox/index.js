@@ -7,7 +7,7 @@ const FilterBox = () => {
     <div className="filter-box">
       <span>Filter Options</span>
       <span>
-        <img src={shape} />
+        <img src={shape} alt="shape" />
       </span>
     </div>
   );

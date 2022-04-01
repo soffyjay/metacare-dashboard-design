@@ -7,15 +7,6 @@ import Aside from "../aside";
 
 const Header = () => {
   const [showDrop, setShowDrop] = useState(false);
-  const deviceWidth = window.innerWidth;
-  const [menu, showMenu] = useState(false);
-  useEffect(() => {
-    if (deviceWidth < 1200) {
-      showMenu(true);
-    } else {
-      showMenu(false);
-    }
-  }, [deviceWidth]);
 
   const toggleMenu = () => {
     if (!showDrop) {

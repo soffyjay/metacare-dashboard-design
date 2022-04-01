@@ -12,8 +12,8 @@ const RightBox = () => {
       </div>
       <div className="line"></div>
       <div className="header-second-box">
-        <img src={circle} className="img" />
-        <img src={shape} className="img" />
+        <img src={circle} className="img" alt="circle" />
+        <img src={shape} className="img" alt="shape" />
       </div>
     </div>
   );
