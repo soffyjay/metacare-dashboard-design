@@ -1,12 +1,12 @@
 .chart-container {
   display: flex;
   border: 1px solid #ecebf5;
-  /* margin: 0 40px; */
+
   padding: 0 0 30px 20px;
   border-radius: 10px;
   margin-bottom: 24px;
   width: 100%;
-  /* max-width: 600px;*/
+
   overflow-x: hidden;
 }
 .line-chart-graph {
@@ -28,8 +28,6 @@
 @media (max-width: 903px) {
   .chart-container {
     overflow: scroll;
-    /* margin-right: 30px;
-    margin-right: 30%; */
   }
   .chart-infos {
     flex: 1;

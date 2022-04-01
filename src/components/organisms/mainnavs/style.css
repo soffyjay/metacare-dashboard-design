@@ -25,3 +25,24 @@
   width: fit-content;
   margin-left: 40px;
 }
+@media (max-width: 500px) {
+  .main-nav-container {
+    overflow: scroll !important;
+    white-space: nowrap;
+    border: none;
+  }
+  .main-nav-link-active {
+    margin-left: 20px;
+  }
+  .main-nav-link {
+    /* padding-top: 0;
+    padding-bottom: 0; */
+    border-bottom: 1px solid #ecebf5;
+  }
+  ::-webkit-scrollbar {
+    width: 0px;
+  } /* remove scrollbar space /
+background: transparent; / optional: just make scrollbar invisible /
+}
+/ optional: show position indicator in red */
+}

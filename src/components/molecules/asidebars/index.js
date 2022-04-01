@@ -62,7 +62,7 @@ const AsideBars = ({ onClose }) => {
               {nav.name}
             </Link>
           </div>
-          <div className={nav.child ? "ri-arrow-icon-items" : "ri-arrow-icon"}>
+          <div className={showItems ? "ri-arrow-icon-items" : "ri-arrow-icon"}>
             {showItems && nav.child ? (
               <RiArrowDropDownLine
                 fontSize={32}

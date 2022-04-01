@@ -38,6 +38,12 @@
 }
 @media (max-width: 560px) {
   .right-box {
-    width: 100px;
+    width: 123px;
+    align-items: center;
+    height: 35px;
+  }
+  .circle {
+    width: 24px;
+    height: auto;
   }
 }

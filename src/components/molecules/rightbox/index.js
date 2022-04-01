@@ -12,7 +12,7 @@ const RightBox = () => {
       </div>
       <div className="line"></div>
       <div className="header-second-box">
-        <img src={circle} className="img" alt="circle" />
+        <img src={circle} alt="circle" className="circle" />
         <img src={shape} className="img" alt="shape" />
       </div>
     </div>

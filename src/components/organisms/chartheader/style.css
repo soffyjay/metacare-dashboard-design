@@ -97,8 +97,12 @@
 }
 @media (max-width: 500px) {
   .chart-items {
-    justify-content: space-evenly;
+    justify-content: flex-start;
     width: 100%;
     padding: 16px 0;
+  }
+  .chart-header {
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }

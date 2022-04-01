@@ -20,3 +20,8 @@
 .email {
   padding-left: 27px;
 }
+@media (max-width: 500px) {
+  .left-box {
+    width: 221px !important;
+  }
+}
